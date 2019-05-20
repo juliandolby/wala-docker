@@ -4,7 +4,7 @@
 # setup
 
 mkdir /home/wala/git/m2
-ln -s /hone/wala/git/m2 /home/wala/.m2
+ln -s /home/wala/git/m2 /home/wala/.m2
 
 export LANG=C.UTF-8
 export LC_ALL=C.UTF-8

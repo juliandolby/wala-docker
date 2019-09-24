@@ -25,7 +25,7 @@ cd jython
 
 # install jython 3
 cd /home/wala/git
-git clone https://github.com/jython/jython3
+git clone https://github.com/juliandolby/jython3
 cd jython3
 ant
 mvn install:install-file -Dfile=dist/jython-dev.jar -DgroupId=org.python -DartifactId=jython3 -Dversion=0.0.1-SNAPSHOT -Dpackaging=jar
